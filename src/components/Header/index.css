@@ -1,0 +1,12 @@
+.header-bg-container {
+  background-color: #f1f5f9;
+  height: 12vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.website-logo {
+  padding-left: 100px;
+  width: 18%;
+}
